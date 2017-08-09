@@ -114,12 +114,5 @@
     document.querySelector('h3').style.display = 'none';
     document.querySelector('h1').style.marginBottom = '1.5em';
     document.querySelector('h1').style.color = 'darkslateblue';
-
-
-
-
-
-
-
-    // Your code here...
+    
 })();
